@@ -1,5 +1,6 @@
 ## Preparation
 - Init project with webpack.js
+- Install jquery, bootstrap, knockout.js
 
 ## Task 1: Create a jQuery table [plugin](https://www.cnblogs.com/Wayou/p/jquery_plugin_tutorial.html)
 - Render html
